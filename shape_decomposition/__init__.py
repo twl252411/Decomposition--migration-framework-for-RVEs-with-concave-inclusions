@@ -1,0 +1,1 @@
+"""Shape decomposition helpers."""

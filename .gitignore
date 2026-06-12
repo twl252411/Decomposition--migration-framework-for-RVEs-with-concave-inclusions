@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Conda / local env metadata
+.conda/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Abaqus-generated files
+*.cae
+*.jnl
+*.rpy
+*.odb
+*.dat
+*.msg
+*.prt
+*.sim
+*.sta
+*.com
+*.inp
+*.lck
+
+# Generated plots and run outputs
+intermediate_final_files/

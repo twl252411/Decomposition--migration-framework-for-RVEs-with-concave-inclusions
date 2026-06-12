@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+openpyxl
+
+# Optional but recommended for faster collision detection
+# numba
